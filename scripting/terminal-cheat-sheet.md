@@ -10,6 +10,7 @@ cat <FILE>: print contents of the file
 echo <TEXT>: print text
 
 **File Manipulation**
+
 _Removal_
 rm <FILE>: remove file
   
