@@ -1,16 +1,15 @@
 # Bash Commands
 
-**Navigation**
-cd: change directory
-pwd: print working directory (where am I?)
-ls: list current directory
+**Navigation**\
+cd: change directory\
+pwd: print working directory (where am I?)\
+ls: list current directory\
 
-**Output**
-cat <FILE>: print contents of the file
+**Output**\
+cat <FILE>: print contents of the file\
 echo <TEXT>: print text
 
-**File Manipulation**
-
+**File Manipulation**\
 _Removal_\
 rm <FILE>: remove file\
 rm -r <PATH>: delete directory recursively\
