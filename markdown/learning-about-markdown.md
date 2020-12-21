@@ -35,3 +35,6 @@ From: [UltraEdit.com](https://ultraedit.com/company/blog/community/what-is-markd
 * It's used everywhere
 	* Unofficial standard for sites like GitHub
 	* Default formatting option for apps like Skyhpe, Slack, and to some extent, Facebook Messenger
+	
+
+* Upon pushing this to github, I also realize that it makes it really easy to see and edit on github. Almost like the repository is a real diary.
