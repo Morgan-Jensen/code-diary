@@ -18,4 +18,4 @@ If `git config user.name` is set within a repository, it will override the varia
 - Global level: `git config --list --global`
 - Local level: `git config --list --local`
 
-To check what username or email will be used at the current level, user `git config user.name` or git config user.email`. If you are in a repository with local user variables set, it will display the local variables, otherwise it will show the lowest level's set variables (either global or system).
+To check what username or email will be used at the current level, user `git config user.name` or `git config user.email`. If you are in a repository with local user variables set, it will display the local variables, otherwise it will show the lowest level's set variables (either global or system).
