@@ -91,7 +91,8 @@ Tables
 |This	| is		|
 |super	| cool		|
 ```
-The must be at least 3 dashes to seperate the headers
+The must be at least 3 dashes to seperate the headers.
+
 Colons align columns like this:
 	`:---` Left
 	`:---:` Center
