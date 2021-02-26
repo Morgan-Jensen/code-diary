@@ -20,6 +20,6 @@ rm -f <FILE>: remove 'Read Only' file without asking\
 rm -rf <PATH>: force deletion of everything in root directory\
 
 _Edit_\
-mv <FILE> <PATH>: move file to given directory (can be absolute or relative path)
+mv <FILE> <PATH>: move file to given directory (can be absolute or relative path)<br/>
 touch <FILE>: change the last edited date-time to now (creates FILE if does not already exist)
 
