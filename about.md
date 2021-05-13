@@ -4,7 +4,7 @@
 
 ##### **About The Author**
 
-My name is Morgan Jensen. I am a Computer Scientist. I graduated with my Bachelor's of Science, majoring in computer science, from Weber State Universitiy in August of 2020. I currently work in industry and will soon return to get my master's degree. I plan to return to school in September of 2021. My career has been a bit unique, in that, while still an intern, I, at different points during the 2 years I interned, was made a product owner (twice), a team lead, a project architect, and a recruiter on top of being a normal developer. Often my customers had no idea of what they wanted, and it fell to my team and I to figure it out. I have a bit of experience in everything from my classes, but most of my time programming has been using the .NET framework; specifically WPF.
+My name is Morgan Jensen. I am a Computer Scientist. I graduated with my Bachelor's of Science, majoring in computer science, from Weber State Universitiy in August of 2020. I currently work in industry and will soon return to get my master's degree. I plan to return to school in September of 2021. For most of my internship and current career I have worked developing desktop applications using the .NET Framework, specifically WPF.
 
 ##### **The Goals**
 
@@ -18,8 +18,6 @@ My name is Morgan Jensen. I am a Computer Scientist. I graduated with my Bachelo
 	* The final product (though I don't know if it will ever really be FINAL) I want to shoot for is a record of things I have learned that I can share with teammates and fellow students.
 
 ##### **The Rules**
-
-Ok. I am going to lay down some ground rules to make this more interesting for myself, and keep it from just being something I keep in a .txt file on my computer somewhere.
 
 _The Rules:_
 1. All entries must be made in markdown.
@@ -35,7 +33,5 @@ _The Rules:_
 These rules are subject to change or be added to as I learn more. I do not, however, want to remove rules just because they are a bit difficult.
 
 ##### **The Plan**
-
-Forturnately for me, I will have plenty of time to learn about computer science. With grad-school fast approaching, I think that transcribing the things that I learn into the diary will be a great opportunity for me, to both better understand what I learn, and give me a space to critically think about the topics. . I also get plenty of opportunity to try new things at my place of employment. I think adding that information to the diary could be helpful for me and coworkers in the future. I hope that this record will also inspire me to try and learn more about the things that interest me.
 
 The end goal is to hopefully build my own web interface to publish this diary. I don't see it happening too soon, but that is the end idea.
