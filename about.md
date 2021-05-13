@@ -19,7 +19,6 @@ My name is Morgan Jensen. I am a Computer Scientist. I graduated with my Bachelo
 
 ##### **The Rules**
 
-_The Rules:_
 1. All entries must be made in markdown.
 	* There are a few reasons for this. First, I know very little about markdown going into this, so it will give me something new to learn right off the bat. In addition to being new to me, it is portable, versitile, future-proof, platform-independant, and most importanlty (right now anyway) is that it is easily converted into HTML (more on that in _The Plan_). 
 2. Anything new that can be documented, should be. 
