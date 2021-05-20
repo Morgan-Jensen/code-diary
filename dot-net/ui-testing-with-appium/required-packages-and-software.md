@@ -2,7 +2,7 @@
 
 **Required** 
 
-[WinAppDriver](https://github.com/microsoft/WinAppDriver, "GitHub"): the application that listens for prompts from the UI tests
+[WinAppDriver](https://github.com/microsoft/WinAppDriver): the application that listens for prompts from the UI tests
 
 **Recommended**
 
